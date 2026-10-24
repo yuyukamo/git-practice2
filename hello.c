@@ -1,2 +1,4 @@
 #include <stdio.h>
-int main(void){ printf("hello B\n"); return 0; }
+=======
+int main(void){ printf("hello A\n"); return 0; }
+>>>>>>> greet
